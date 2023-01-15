@@ -8,7 +8,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ambre-bourdarie-1b9bb6178/](https://www.linkedin.com/in/ambre-bourdarie-1b9bb6178/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambrette&show_icons=true&locale=en&layout=compact" alt="lambrette" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambrette&show_icons=true&locale=en&layout=compact" alt="lambrette" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambrette&show_icons=true&locale=en" alt="lambrette" /></p>
 
 
 <h3 align="left">Languages</h3>
