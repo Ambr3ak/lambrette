@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ambre</h1>
 <h3 align="center">A passionate student developer at 42 Paris</h3>
+
+- 🔭 I’m currently working on **inception**
+
+- 🤝 I’m looking for help with **cybersecurity**
+
+- 📫 How to reach me **abourdar@student.42.fr**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ambre-bourdarie-1b9bb6178/](https://www.linkedin.com/in/ambre-bourdarie-1b9bb6178/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambrette&show_icons=true&locale=en&layout=compact" alt="lambrette" /></p>
 
