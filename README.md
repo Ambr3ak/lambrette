@@ -1,6 +1,6 @@
 <h3 align="center">A passionate student developer at 42 Paris</h3>
 
-- 🔭 I’m currently working on **inception**
+- 🔭 I’m currently working on [inception](https://github.com/lambrette/inception)
 
 - 📖 I’m learning **cybersecurity, network and system administration**
 
