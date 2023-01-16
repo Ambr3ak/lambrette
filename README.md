@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **inception**
 
-- 🤝 I’m learning **cybersecurity, network and system administration**
+- 📖 I’m learning **cybersecurity, network and system administration**
 
 - 📫 How to reach me **abourdar@student.42.fr**
 
